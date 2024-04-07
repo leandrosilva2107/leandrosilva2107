@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming?
 - 🌱 I’m currently learning python, java and C;
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @leandro.silva@ua.pt
+- 📫 How to reach me leandro.silva@ua.pt
 - 😄 Pronouns: Who/Asks
 - ⚡ Fun fact: I am beutiful
 
